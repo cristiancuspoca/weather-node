@@ -1,8 +1,8 @@
 ## Ejercicio udemy aprendiendo node
 
-# Uso de asyn y await
-# Uso de yargs
-# Consumo de API
+* Uso de async y await
+* Uso de yargs
+* Consumo de API
 
 # Ejemplo de uso
 ```
