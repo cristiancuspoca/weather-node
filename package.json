@@ -1,0 +1,26 @@
+{
+  "name": "weather-node",
+  "version": "1.0.0",
+  "description": "Mini servicio de consulta de clima",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristiancuspoca/weather-node.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "cristiancuspocas@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristiancuspoca/weather-node/issues"
+  },
+  "homepage": "https://github.com/cristiancuspoca/weather-node#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "yargs": "^17.0.1"
+  }
+}
